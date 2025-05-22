@@ -1,3 +1,5 @@
+// Sorry if there are comments in Spanish, but it's so I don't get lost in the code 
+// and can understand what I was supposed to do in each part.
 using System;
 using System.Collections.Generic;
 
